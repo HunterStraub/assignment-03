@@ -21,7 +21,6 @@ int fib(int n) //base case
 	return f[n];
 }
 
-
 int main()
 {
 	std::cout << fib(37) << std::endl;
