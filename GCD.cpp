@@ -2,7 +2,6 @@
 * Copyright &copy; 2016 Hunter Straub <hunterstraub@csu.fullerton.edu>
 * Released under the [MIT License] (http://opensource.org/licenses/MIT)
 * --------------------------------------------------------------------------*/
-
 #include <iostream>
 
 int gcd(int a, int b)	//base case
